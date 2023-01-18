@@ -6,3 +6,6 @@ https://mui.com/material-ui/
 
 iconos:
 https://fonts.google.com/icons?icon.set=Material+Icons
+
+Banco de Imagenes
+https://www.pexels.com/es-es/
